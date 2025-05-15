@@ -1,0 +1,6 @@
+../Core/Src/main.c:35:5:main	3
+../Core/Src/main.c:65:9:ascii_to_hid	7
+../Core/Src/main.c:82:6:send_key_char	2
+../Core/Src/main.c:103:6:send_uid_as_keyboard_input	2
+../Core/Src/main.c:110:6:SystemClock_Config	4
+../Core/Src/main.c:160:6:Error_Handler	1

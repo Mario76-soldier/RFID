@@ -1,0 +1,12 @@
+../Core/Src/rc522.c:9:9:RC522_SPI_Transfer	1
+../Core/Src/rc522.c:23:6:Write_MFRC522	1
+../Core/Src/rc522.c:47:7:Read_MFRC522	1
+../Core/Src/rc522.c:76:6:SetBitMask	1
+../Core/Src/rc522.c:89:6:ClearBitMask	1
+../Core/Src/rc522.c:102:6:AntennaOn	1
+../Core/Src/rc522.c:115:6:AntennaOff	1
+../Core/Src/rc522.c:126:6:MFRC522_Reset	1
+../Core/Src/rc522.c:137:6:MFRC522_Init	1
+../Core/Src/rc522.c:165:7:MFRC522_ToCard	16
+../Core/Src/rc522.c:288:7:MFRC522_Request	3
+../Core/Src/rc522.c:312:7:MFRC522_Anticoll	4

@@ -1,0 +1,6 @@
+../Core/Src/main.c:35:5:main	56	static
+../Core/Src/main.c:65:9:ascii_to_hid	24	static
+../Core/Src/main.c:82:6:send_key_char	32	static
+../Core/Src/main.c:103:6:send_uid_as_keyboard_input	24	static
+../Core/Src/main.c:110:6:SystemClock_Config	88	static
+../Core/Src/main.c:160:6:Error_Handler	4	static,ignoring_inline_asm
